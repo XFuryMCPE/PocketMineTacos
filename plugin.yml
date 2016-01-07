@@ -1,1 +1,5 @@
-
+name: PocketMineTacos
+author: reidq7
+version: 1.0.0
+api: 1.13.0
+main: PocketMineTacos\PocketMineTacos
