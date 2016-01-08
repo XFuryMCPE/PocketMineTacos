@@ -1,6 +1,6 @@
 <?php
 
-namespace PocketMineTacos
+namespace PocketMineTacos;
 
 use pocketmine\plugin\PluginBase;
 
