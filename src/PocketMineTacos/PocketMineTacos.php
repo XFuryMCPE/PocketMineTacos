@@ -4,7 +4,7 @@ namespace PocketMineTacos;
 
 use pocketmine\plugin\PluginBase;
 
-class PocketmineTacos extends PluginBase with Listener{
+class PocketmineTacos extends PluginBase implements Listener{
   
   
   
