@@ -1,5 +1,7 @@
 name: PocketMineTacos
 author: reidq7
-version: 1.0.0
-api: 1.13.0
+description: "Eat tacos in PocketMine!"
+version: 1.0.1
+api: 1.12.0
 main: PocketMineTacos\PocketMineTacos
+website: KingdomsBuy.tk
